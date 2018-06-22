@@ -1,4 +1,4 @@
-baseurl = "https://jordynsblog.org:1313"
+baseurl = "https://jordynsblog.org"
 languageCode = "en-us"
 Title = "Jordyn's blog"
 # Copyright notice. This is displayer in the footer.
@@ -6,12 +6,9 @@ copyright = "&copy; 2018 jcjordyn120 and contributers"
 
 [params]
   paginate = 10
-  # Social accounts. Link to these accounts are displayed in the header and
-  # footer
   github = "jcjordyn130"
-  # Logo image. This is displayed ogp image.
-  logo = "/path/to/logo"
-  favicon = "/path/to/favicon"
+  logo = ""
+  favicon = ""
 
 [[menu.main]]
     name = "Blog"
