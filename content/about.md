@@ -7,8 +7,8 @@ weight: "30" #Right-most nav item
 meta: "false" #Do not display tags or categories
 ---
 
-I am jcjordyn120 and this is my blog.  
-I am a computer enthusiast and like to code in golang and python 3.   
+I'm jcjordyn120 and this is my blog.  
+I'm a computer enthusiast and like to code in golang and python 3.   
 
 ### Server details
 This server used to be hosted on a raspberry pi 3 with an external usb HDD.
