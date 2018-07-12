@@ -22,6 +22,7 @@ an Intel(R) i5-6402P CPU, and yes this has meltdown and spectre but it's patched
 Gentoo Linux for the distro, using runit and libressl as always.  
 a H170-PRO motherboard.  
 a NZXT phantom case.  
+a 500w power supply.
 Last but not least: a 30/10 VDSL2 internet connection provided by AT&T, the desktop is connected over gigabit powerline though.  
 
 And the pi? As you're reading this it's either a (data) backup server or a tablet.
