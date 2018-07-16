@@ -21,8 +21,8 @@ copyright = "&copy; 2018 jcjordyn120 and contributers"
     weight = 2
 
 [[menu.main]]
-    identifier = "theme"
-    name = "Theme"
+    name = "Wallpapers"
+    url = "/wallpapers"
     weight = 3
 
 [related]
