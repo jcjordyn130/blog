@@ -5,8 +5,7 @@ draft: false
 ---
 Here you will find all my wallapers.
 
-You can get them using the following [magnet 
-link](magnet:?xt=urn:btih:20470ecf4c25a7a6b6f14517c27d32cd900d5033) in 4K, with the source (needs GIMP and blender to render).
+You can get them using the following [torrent file](/Wallpapers_07-15-2018.torrent) in 4K, with the source (needs GIMP and blender to render).
 
 ### Blissful Sky
 This is my first wallpaper, Blissful sky.    
