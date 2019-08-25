@@ -1,4 +1,5 @@
-baseurl = "https://jordynsblog.org"
+baseurl = "https://jcjordyn130.github.io"
+theme = "potato-dark"
 languageCode = "en-us"
 Title = "Jordyn's blog"
 # Copyright notice. This is displayer in the footer.
